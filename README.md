@@ -1,2 +1,2 @@
 # hello-world
-Este repositório é para praticar o fluxo do GitHub
+Matheus Morais de Oliveira, 25 anos, estudante de Engenharia de Software.
